@@ -1,5 +1,5 @@
 
-# Medico - Healthcare Platform
+# Schedly - Healthcare Platform
 
 This healthcare patient management application simplifies the process for patients to register, book, and manage their doctor appointments. It includes powerful administrative features for scheduling, confirming, and canceling appointments, and integrates SMS notifications to keep patients informed. The entire system is built using Next.js for a seamless user experience.
 

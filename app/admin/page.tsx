@@ -8,7 +8,7 @@ import { getRecentAppointmentList } from "@/lib/actions/appointment.actions";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Medico | Admin",
+  title: "Schedly | Admin",
   description: "Schdule the Appointment",
   icons: {
     icon: "/assets/icons/logo-icon.svg",
@@ -23,7 +23,7 @@ const AdminPage = async () => {
       <header className="admin-header">
         <Link href="/" className="cursor-pointer">
           <Image
-            src="/assets/icons/logo-full.svg"
+            src="/assets/icons/logo-full1.svg"
             height={32}
             width={162}
             alt="logo"
